@@ -3,7 +3,7 @@
 This project was done as part of Deep Learning in NLP (LING530F) course. In this, we work on implicit emotion detection task in semeval 2018. We develop basic CNN, RNN model variations and compare their performance with naive machine learning techniques. 
 
 |    **Model**  | **Notebook** |
-|--------------------|------------|---------------------|
+|--------------------|------------|
 | Baseline | [Notebook](https://nbviewer.jupyter.org/github/abishekarun/LING530F/blob/master/hw02/Notebooks/Baseline.ipynb) |      
 | CNN | [Notebook](https://nbviewer.jupyter.org/github/abishekarun/LING530F/blob/master/hw02/Notebooks/CN.ipynb) |
 | LSTM | [Notebook](https://nbviewer.jupyter.org/github/abishekarun/LING530F/blob/master/hw02/Notebooks/LSTM.ipynb) |
