@@ -3,10 +3,10 @@
 In this, we list all the projects worked as part of Deep Learning in NLP (LING530F) course. 
 You can find the links of projects below.
 
-|    **Project**  | **READme** |  **Notebook file**  |
+|    **Project**  | **READme** |  **Report**  |
 |--------------------|------------|---------------------|
-| Word Embeddings | [1](https://nbviewer.jupyter.org/github/abishekarun/LING530F/blob/master/hw01/README.md) | [Notebook](https://github.com/abishekarun/LING530F/blob/master/hw01/hw01_gapminder.md) |      
-| Implicit Emotion Detection | [2](https://nbviewer.jupyter.org/github/abishekarun/LING530F/blob/master/hw02/README.md) | [Notebook](https://github.com/abishekarun/LING530F/blob/master/hw02/hw02_gapminder.md) |
+| Word Embeddings | [1](https://github.com/abishekarun/LING530F/blob/master/hw01/README.md)|  [Report](https://github.com/abishekarun/LING530F/blob/master/hw01/Assignment_1.pdf)  
+| Implicit Emotion Detection | [2](https://github.com/abishekarun/LING530F/blob/master/hw02/README.md) | [Report](https://github.com/abishekarun/LING530F/blob/master/hw02/Assignment_2.pdf)
 
 The resources that helped me are:
 
